@@ -1,0 +1,27 @@
+_repo: Young-Man-from-Elsewhen_61006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobs, Sylvia
+    gutenberg_agent_id: '46363'
+    url: http://www.gutenberg.org/2009/agents/46363
+description: ''
+gutenberg_issued: '2019-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Older men -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Railroad travel -- Fiction'
+- !lcsh 'California -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Young Man from Elsewhen
+url: http://www.gutenberg.org/ebooks/61006
