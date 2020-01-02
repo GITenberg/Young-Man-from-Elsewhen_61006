@@ -1,11 +1,16 @@
 _repo: Young-Man-from-Elsewhen_61006
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61006-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacobs, Sylvia
     gutenberg_agent_id: '46363'
     url: http://www.gutenberg.org/2009/agents/46363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61006#Young-Man-from-Elsewhen
 gutenberg_issued: '2019-12-23'
 gutenberg_type: Text
 identifiers:
